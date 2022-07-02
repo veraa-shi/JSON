@@ -1,7 +1,14 @@
 {
-"Name": "Shishkina Vera Valentinovna"
-"Age": "31"
-"Pets": "1"
-"Salary": "200000 rub"
+"fullName": {
+"surname": "Shishkina",
+"firstName": "Vera",
+"patronymic": Valentinovna"
+},
+"age": 31,
+"petsCount": 1,
+"desiredSalary": {
+"salary": 200000,
+"currency": "rub"
+}
 }
 
